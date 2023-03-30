@@ -2,7 +2,7 @@
 # Hi there 😁
 
 <div align="center">
-    <img src='banner.jpg' style="border-radius: 12px"> 
+    <img src='banner.JPG' style="border-radius: 12px"> 
     <em>Flores del jardín.</em>
 </div> 
 
@@ -24,7 +24,7 @@ Hola! Soy Canela Orellana, vivo en Santiago de Chile y planeo ingresar al Magist
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="CV.pdf">
-        <img src="https://img.shields.io/badge/Resume (in spanish)-a?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CV-a?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
 
